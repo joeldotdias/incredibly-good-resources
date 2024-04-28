@@ -9,3 +9,5 @@
 - [100 Go Mistakes and How To Avoid Them](https://100go.co/)
 
 - [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests)
+
+- [Let's Go Further](https://lets-go-further.alexedwards.net/)

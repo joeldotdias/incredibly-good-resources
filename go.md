@@ -2,6 +2,8 @@
 
 - [Go By Example](https://gobyexample.com/)
 
+- [Effective Go](https://go.dev/doc/effective_go)
+
 - [Writing An Interpreter In Go](https://interpreterbook.com/)
 
 - [Writing A Compiler In Go](https://compilerbook.com/)
